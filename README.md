@@ -20,7 +20,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Application Preview
 
-![Date Formatter Preview](https://via.placeholder.com/600x400/0a0a23/ffffff?text=Date+Formatter+Demo)
+<img width="742" height="771" alt="image" src="https://github.com/user-attachments/assets/39a839ff-bdc9-4b51-9686-d706ff16ddbb" />
 
 Live Demo: https://your-username.github.io/JavaScript-Date-Formatter
 
@@ -68,12 +68,12 @@ Live Demo: https://your-username.github.io/JavaScript-Date-Formatter
 
 ### 1️⃣ Clone this repo
 ```
-git clone git@github.com:acheronx0577/JavaScript-Building-a-Music-Player.git
+git clone git@github.com:acheronx0577/JavaScript-Building-a-Date-Formatter.git
 ```
 
 ### 2️⃣ Open the project folder
 ```
-cd JavaScript-Building-a-Music-Player
+cd JavaScript-Building-a-Date-Formatter
 ```
 
 ### 3️⃣ Run the file
