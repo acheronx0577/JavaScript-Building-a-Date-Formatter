@@ -174,15 +174,4 @@ This project is open-source under the **MIT License**.
 ⭐ **If you find this date formatter useful, don't forget to give it a star!** ⭐
 
 ---
-
-## 🔗 Related Projects
-
-Check out my other freeCodeCamp certification projects:
-- [🎵 Music Player](https://github.com/your-username/JavaScript-Building-a-Music-Player)
-- [🌵 Pyramid Generator](https://github.com/your-username/JavaScript-Building-a-Pyramid-Generator)
-- [🎮 Rock Paper Scissors](https://github.com/your-username/JavaScript-Building-a-Rock-Paper-Scissors-Game)
-- [🏆 Full Certification Portfolio](https://github.com/your-username/JavaScript-Algorithms-and-data-structures)
-
----
-
 *Happy coding! 🚀*
