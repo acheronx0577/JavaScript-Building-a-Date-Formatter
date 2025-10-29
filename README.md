@@ -54,16 +54,6 @@ Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Date-Formatter
 
 ---
 
-## 🧩 Project Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Application structure and layout |
-| `script.js` | Date logic and real-time updates ⚙️ |
-| `styles.css` | Modern styling with CSS variables 🎨 |
-
----
-
 ## 🧰 Installation & Usage
 
 ### 1️⃣ Clone this repo
