@@ -20,7 +20,7 @@ This repository contains the complete portfolio of projects needed to demonstrat
 
 ## 📸 Application Preview
 
-<img width="742" height="771" alt="image" src="https://github.com/user-attachments/assets/39a839ff-bdc9-4b51-9686-d706ff16ddbb" />
+<img width="1018" height="1095" alt="image" src="https://github.com/user-attachments/assets/ab39f40a-8b41-464c-adf6-779efbeecf9d" />
 
 Live Demo: https://acheronx0577.github.io/JavaScript-Building-a-Date-Formatter
 
